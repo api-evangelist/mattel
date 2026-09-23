@@ -1,7 +1,9 @@
 ---
 title: Mattel and OpenAI Announce Strategic Collaboration
 url: https://corporate.mattel.com/news/mattel-and-openai-announce-strategic-collaboration
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mattel" press release artificial intelligence'
 position: 1
 source: serpapi-google

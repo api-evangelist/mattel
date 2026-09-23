@@ -1,7 +1,9 @@
 ---
 title: Financials - Quarterly Results
 url: https://investors.mattel.com/financials/quarterly-results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mattel" press release artificial intelligence'
 position: 4
 source: serpapi-google

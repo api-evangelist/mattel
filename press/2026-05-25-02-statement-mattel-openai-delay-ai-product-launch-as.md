@@ -1,7 +1,9 @@
 ---
 title: 'STATEMENT: Mattel, OpenAI delay AI product launch as ...'
 url: https://pirg.org/media-center/statement-mattel-openai-delay-ai-product-launch-as-senators-demand-transparency-from-toy-companies/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mattel" press release artificial intelligence'
 position: 2
 source: serpapi-google
