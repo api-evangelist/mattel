@@ -28,9 +28,11 @@ tags:
   - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/mattel/refs/heads/main/apis.yml
-modified: '2026-04-28'
+modified: '2026-10-06'
 apis: []
 common:
+  - url: https://corporate.mattel.com/news
+    type: Blog
   - type: DomainSecurity
     url: security/mattel-domain-security.yml
   - type: GitHubOrganization
